@@ -1,5 +1,6 @@
-# Projetos-Academicos
-Projetos feitos no Instituto Federal de Hortolândia.
+# Casa Automatizada
 
-Todos os projetos nesse diretório foi realizado pelo grupo GMG.
-O grupo é formado por Gabriel Lopes, Michael Brenno e Guilherme Valentim.
+Projeto realizado pelo grupo GMG:
+Gabriel Lopes, 
+Michael Brenno, 
+Guilherme Valentim.
