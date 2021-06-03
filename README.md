@@ -7,5 +7,3 @@ Michael Brenno,
 Guilherme Valentim.
 
 
-
-https://github.com/kettanaito/next.js
